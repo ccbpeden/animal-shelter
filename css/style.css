@@ -15,10 +15,11 @@ h1 {
   background-repeat: repeat-x;
   font-family: "Brush Script MT";
   font-size: 50px;
-  line-height: 200px;
   text-align: center;
   color: lightblue;
   text-shadow: 3px 3px green;
+  padding-top: 100px;
+  padding-bottom: 15px;
 }
 
 .columns p img {
